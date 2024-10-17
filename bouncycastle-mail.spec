@@ -8,7 +8,7 @@ Version:          %{ver}
 Group:		  System/Libraries
 Release:          5%{?dist}
 License:          MIT
-URL:              http://www.bouncycastle.org/
+URL:              https://www.bouncycastle.org/
 Source0:          http://www.bouncycastle.org/download/bcmail-%{archivever}.tar.gz
 Source1:          http://repo2.maven.org/maven2/org/bouncycastle/bcmail-jdk15on/%{version}/bcmail-jdk15on-%{version}.pom
 
